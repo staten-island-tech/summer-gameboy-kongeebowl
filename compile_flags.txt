@@ -1,0 +1,4 @@
+-I/opt/gbdk/include
+-I.
+-D__PORT_sm83
+-D__TARGET_gb

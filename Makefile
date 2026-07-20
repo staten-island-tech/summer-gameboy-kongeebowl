@@ -1,7 +1,7 @@
 CC = lcc
 ROM = test
 OBJS = test.c smirk.c
-GBDK_DIR = /usr/share/gbdk-2020
+GBDK_DIR = /opt/gbdk/
 
 CFLAGS += -I$(GBDK_DIR)/include
 
